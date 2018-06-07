@@ -17,6 +17,6 @@ mktime(hour,minute,second,month,day,year) //this is probably useless function
 strtotime("+1 Month", $date) //this is EXTREMELY USEFUL function
 ```
 
-##Running code
+## Running code
 
 If you are lazy and don't want to mess up with local or remote server, copy code [here](http://phpfiddle.org/ "PHP fiddle") and just run it.
