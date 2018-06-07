@@ -4,7 +4,7 @@ This is PHP-sample which shows usage and manipulations with PHP date&time functi
 
 ## What it does?
 
-You insert date in text style, like "last Sunday" or "12 July 1990". Script checks if it is future date or past. 
+You insert date in text style, like "last Sunday" or "12 July 1990". Script checks if it is future date or past.   
 Then it colors it. Red = past, green = future (and present).
 
 ## PHP date and time functions cheatshit
